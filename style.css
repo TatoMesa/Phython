@@ -7,3 +7,15 @@ h2{
     color: pink;
     margin: 0;
 }
+
+header{
+    background-color: aqua;
+}
+
+main{
+    background-color: blueviolet;
+}
+
+footer{
+    background-color:coral;
+}
