@@ -1,10 +1,10 @@
 h1{
-    color: purple;
+    color: rgb(51, 193, 29);
     margin: 0;
 }
 
 h2{
-    color: pink;
+    color: rgb(171, 210, 64);
     margin: 0;
 }
 
@@ -13,9 +13,9 @@ header{
 }
 
 main{
-    background-color: blueviolet;
+    background-color: rgb(43, 202, 226);
 }
 
 footer{
-    background-color:coral;
+    background-color:rgb(240, 192, 174);
 }
